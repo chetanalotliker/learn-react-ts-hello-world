@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Learn React Typescript Hello World
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react.js application in which typescript is used. It is a hello world application which includes passing avenger data from App.tsx and showing the same in the List Component.
+
+Inspired by Blog: https://www.thisdot.co/blog/getting-started-with-react-and-typescript
+
+See demo: https://chetanalotliker.github.io/learn-react-ts-hello-world
 
 ## Available Scripts
 
